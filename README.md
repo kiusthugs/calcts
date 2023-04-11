@@ -1,2 +1,2 @@
 # calcts
-##Simple calculator app built with TypeScript
+Simple calculator app built with TypeScript
