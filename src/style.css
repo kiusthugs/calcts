@@ -1,0 +1,14 @@
+#calculator-screen {
+  width: 300px;
+  text-align: right;
+}
+#calculator-pad {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 400px;
+}
+
+#calculator-pad button {
+  width: 25%;
+}
